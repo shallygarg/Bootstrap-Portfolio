@@ -1,0 +1,81 @@
+
+            body{
+                background-image: url("../../assets/images/light-grey-terrazzo.png");
+            }
+            .navbar{
+                height: 100px;
+            }
+            .navbar-brand{
+                color: white;
+                background-color: #4aaaa5;
+                    margin: 10px;
+                    padding:15px;     
+            }
+            h3{
+                color: teal;
+            }
+            #main-content{
+              margin: auto;
+              margin-top: 50px;
+              margin-bottom: 50px;
+              background-color: white;
+              /* width:960px; */
+            }
+            .img-thumbnail{
+                margin-right: 20px;
+            }
+            .card-footer{
+                
+            }
+            #message{
+              height:200px;
+            }
+            #submit{
+                background-color: #4aaaa5;
+            }
+            .span{
+                background-color: #4aaaa5;
+                color: white;
+                padding: 15px;
+                
+            }
+            .card-header{
+                background-color: #4aaaa5;
+                color: white;
+            }
+  
+
+
+            /* portfolio images styling */
+.portfolio-gallary{
+    width: 300px;
+    height: 200px;
+    display: block;
+} 
+/*  Text on Images */
+.span {
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+    background-color:#4aaaa5;
+    color: white;   
+    position: absolute;
+    bottom: 40px;
+}
+.card-footer {
+    position: fixed;
+    right:0;
+    bottom:0;
+    left: 0;
+    width: 100%;
+    background-color: grey;
+    height: 45px;
+    padding: 10px 0px 0px 0px;
+    border-top:  #4aaaa5 8px solid;
+}
+
+/* p{
+    display: inline;
+    letter-spacing: 1px;
+} */
+
